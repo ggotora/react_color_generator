@@ -3,11 +3,10 @@
 > Props, State 
 
 
-- Linkedin: [Jorge Torres](https://www.linkedin.com/in/jtbribiesca/)
-
 👤 **Author**
 
 - Github: [Gilbert Gotora](https://github.com/ggotora)
+- Linkedin: [Gilbert Gotora](https://www.linkedin.com/in/gilbert-gotora/)
 
 ## 🤝 Contributing
 
